@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kavinda Liyanaarachchi
-- 👀 I’m interested in Web Developing 
+- 👀 I’m interested in Web Developing,Graphic Designing
 - 🌱 I’m currently learning PHP,Java Script and .NET
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
